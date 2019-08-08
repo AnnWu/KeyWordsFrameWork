@@ -1,0 +1,54 @@
+1565254734999	geckodriver	INFO	Listening on 127.0.0.1:47875
+1565254737951	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1565254739617	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1565254740495	Marionette	INFO	Enabled via --marionette
+[Child 6904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1565254744114	Marionette	INFO	Listening on port 47883
+1565254744430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565254744485	Marionette	DEBUG	Register listener.js for window 4294967297
+1565254744565	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1565254746556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1565254746557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1565254747855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1565254750233	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1565254755808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1565254759352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1565254779840	Marionette	DEBUG	Received DOM event "popstate" for "https://mail.126.com/js6/main.jsp?sid=mAfpDmrYmErwJwSzXtYYpGWiSEkgScgM&df=mail163_letter#module=compose.ComposeModule%7C%7B%22type%22%3A%22compose%22%2C%22fullScreen%22%3Atrue%2C%22cid%22%3A%22c%3A1565254781178%22%7D"
+1565254780179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1565254820272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1565254823417	Marionette	INFO	New connections will no longer be accepted
+
+[Child 8848] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+r "about:blank"
+1565246316806	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1565246319340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1565246323378	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: rect is undefined
+Full stack: element.getInViewCentrePoint@chrome://marionette/content/element.js:893:5
+seleniumClickElement@chrome://marionette/content/interaction.js:257:18
+TaskImpl_run@resource://gre/modules/Task.jsm:331:42
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: rect is undefined
+Full stack: element.getInViewCentrePoint@chrome://marionette/content/element.js:893:5
+seleniumClickElement@chrome://marionette/content/interaction.js:257:18
+TaskImpl_run@resource://gre/modules/Task.jsm:331:42
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: rect is undefined
+Full stack: element.getInViewCentrePoint@chrome://marionette/content/element.js:893:5
+seleniumClickElement@chrome://marionette/content/interaction.js:257:18
+TaskImpl_run@resource://gre/modules/Task.jsm:331:42
+
+*************************
+1565246350174	Marionette	DEBUG	Register listener.js for window 8589934593

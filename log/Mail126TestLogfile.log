@@ -1,0 +1,1520 @@
+2018- 10- 29 21:55:22 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018- 10- 29 21:55:29 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:29 TestSendMailWithAttachment.py[line:131] INFO 步骤'打开浏览器'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:55:46 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:46 TestSendMailWithAttachment.py[line:131] INFO 步骤'访问被测网站http://www.126.com'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:55:47 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:47 TestSendMailWithAttachment.py[line:131] INFO 步骤'最大化窗口'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:131] INFO 步骤'等待126邮箱登录加载完成'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:131] INFO 步骤'断言是否包含'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:131] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitFrameToBeAvailableAndSwitchToIt('xpath,'//iframe[@name=""]')
+                                                         ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:131] INFO 步骤'输入登录用户名'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//input[@name="email"]',u'minwu126')
+                                 ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:131] INFO 步骤'输入密码'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//input[@name="password"]',u'wuli8228680')
+                                 ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:52 TestSendMailWithAttachment.py[line:131] INFO 步骤'点击登录按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('id,'dologin')
+                     ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:55:57 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:57 TestSendMailWithAttachment.py[line:131] INFO 步骤'等待'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:55:57 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:57 TestSendMailWithAttachment.py[line:131] INFO 步骤'切回默认回话窗体'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:131] INFO 步骤'断言登录成功后页面是否包含标题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 99, in assert_title
+    raise AssertionError(e)
+AssertionError: 网易邮箱 not found in title
+
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:131] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitVisibilityOfElementLocated('xpath,'//span[text()="写信"]')
+                                                        ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:131] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('xpath,'//span[text()="写信"]')
+                               ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:131] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[contains(@id,"_mail_emailinput")]/input',u'757693255@qq.com')
+                                        ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:55:58 TestSendMailWithAttachment.py[line:131] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[@aria-label="邮件主题输入框，请输入邮件主题"]/input',u'带附件的邮件')
+                               ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:56:02 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:02 TestSendMailWithAttachment.py[line:131] INFO 步骤'等待几秒'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:56:02 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:02 TestSendMailWithAttachment.py[line:131] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[@title="点击添加附件"]/input[@size="1" and @type="file"]',u'd:\\a.txt')
+                               ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:56:06 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:06 TestSendMailWithAttachment.py[line:131] INFO 步骤'等待几秒'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:56:06 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:06 TestSendMailWithAttachment.py[line:131] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitVisibilityOfElementLocated('xpath,'//span[text()="上传完成"]')
+                                                        ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:56:06 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:06 TestSendMailWithAttachment.py[line:131] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitFrameToBeAvailableAndSwitchToIt('xpath,'//iframe[@tabindex=1]')
+                                                         ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:56:07 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:07 TestSendMailWithAttachment.py[line:131] INFO 步骤'输入邮件正文'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'/html/body',u'写给未来自己的一封信')
+                                      ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:56:07 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:07 TestSendMailWithAttachment.py[line:131] INFO 步骤'退出邮件正文的frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:56:07 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:07 TestSendMailWithAttachment.py[line:131] INFO 步骤'点击邮件发送'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('xpath,'//header//span[text()="发送"]')
+                                       ^
+SyntaxError: invalid syntax
+
+2018- 10- 29 21:56:10 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:10 TestSendMailWithAttachment.py[line:131] INFO 步骤'等待发送成功'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 121, in TestSendMailWithAttachment
+    colNo=testStep_runTime)
+  File "D:\PythonWork\KeyWordsFrameWork\util\ParseExcel.py", line 148, in writeCellCurrenTime
+    raise e
+TypeError: cell() got an unexpected keyword argument 'rowNo'
+
+2018- 10- 29 21:56:10 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018- 10- 29 21:56:10 TestSendMailWithAttachment.py[line:131] INFO 步骤'断言是否出现发送成功关键内容'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 117, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 89, in assert_string_in_pagesource
+    raise AssertionError(e)
+AssertionError: 发送成功 not found in page source
+
+2018-10-29 22:14:12 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:14:21 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:21 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:14:33 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:33 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:14:33 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:33 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitFrameToBeAvailableAndSwitchToIt('xpath,'//iframe[@name=""]')
+                                                         ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入登录用户名'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//input[@name="email"]',u'minwu126')
+                                 ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入密码'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//input[@name="password"]',u'wuli8228680')
+                                 ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:38 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击登录按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('id,'dologin')
+                     ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:43 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:14:43 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言登录成功后页面是否包含标题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 99, in assert_title
+    raise AssertionError(e)
+AssertionError: 网易邮箱 not found in title
+
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitVisibilityOfElementLocated('xpath,'//span[text()="写信"]')
+                                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('xpath,'//span[text()="写信"]')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[contains(@id,"_mail_emailinput")]/input',u'757693255@qq.com')
+                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:44 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[@aria-label="邮件主题输入框，请输入邮件主题"]/input',u'带附件的邮件')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:14:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[@title="点击添加附件"]/input[@size="1" and @type="file"]',u'd:\\a.txt')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitVisibilityOfElementLocated('xpath,'//span[text()="上传完成"]')
+                                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:132] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitFrameToBeAvailableAndSwitchToIt('xpath,'//iframe[@tabindex=1]')
+                                                         ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入邮件正文'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'/html/body',u'写给未来自己的一封信')
+                                      ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2018-10-29 22:14:53 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:53 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击邮件发送'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('xpath,'//header//span[text()="发送"]')
+                                       ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:14:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:56 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2018-10-29 22:14:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:56 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言是否出现发送成功关键内容'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 89, in assert_string_in_pagesource
+    raise AssertionError(e)
+AssertionError: 发送成功 not found in page source
+
+2018-10-29 22:14:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:56 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2018-10-29 22:14:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:14:56 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过0条.
+2018-10-29 22:18:22 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:18:30 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:30 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:18:37 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:37 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:18:37 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:37 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitFrameToBeAvailableAndSwitchToIt('xpath,'//iframe[@name=""]')
+                                                         ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入登录用户名'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//input[@name="email"]',u'minwu126')
+                                 ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入密码'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//input[@name="password"]',u'wuli8228680')
+                                 ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:42 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击登录按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('id,'dologin')
+                     ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:47 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:47 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言登录成功后页面是否包含标题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 99, in assert_title
+    raise AssertionError(e)
+AssertionError: 网易邮箱 not found in title
+
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitVisibilityOfElementLocated('xpath,'//span[text()="写信"]')
+                                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('xpath,'//span[text()="写信"]')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[contains(@id,"_mail_emailinput")]/input',u'757693255@qq.com')
+                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[@aria-label="邮件主题输入框，请输入邮件主题"]/input',u'带附件的邮件')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:18:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:52 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[@title="点击添加附件"]/input[@size="1" and @type="file"]',u'd:\\a.txt')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitVisibilityOfElementLocated('xpath,'//span[text()="上传完成"]')
+                                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:132] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitFrameToBeAvailableAndSwitchToIt('xpath,'//iframe[@tabindex=1]')
+                                                         ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入邮件正文'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'/html/body',u'写给未来自己的一封信')
+                                      ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:56 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击邮件发送'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('xpath,'//header//span[text()="发送"]')
+                                       ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:18:59 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:59 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2018-10-29 22:18:59 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:18:59 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言是否出现发送成功关键内容'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 89, in assert_string_in_pagesource
+    raise AssertionError(e)
+AssertionError: 发送成功 not found in page source
+
+2018-10-29 22:19:00 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:19:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2018-10-29 22:19:00 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:19:00 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过0条.
+2018-10-29 22:19:28 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:19:35 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:19:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:19:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:19:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:19:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:19:55 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitFrameToBeAvailableAndSwitchToIt('xpath,'//iframe[@name=""]')
+                                                         ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:19:55 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入登录用户名'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//input[@name="email"]',u'minwu126')
+                                 ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:19:55 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入密码'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//input[@name="password"]',u'wuli8228680')
+                                 ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:19:56 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击登录按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('id,'dologin')
+                     ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:01 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:20:01 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:20:01 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言登录成功后页面是否包含标题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 99, in assert_title
+    raise AssertionError(e)
+AssertionError: 网易邮箱 not found in title
+
+2018-10-29 22:20:01 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:20:01 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitVisibilityOfElementLocated('xpath,'//span[text()="写信"]')
+                                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:01 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('xpath,'//span[text()="写信"]')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:01 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[contains(@id,"_mail_emailinput")]/input',u'757693255@qq.com')
+                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:02 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[@aria-label="邮件主题输入框，请输入邮件主题"]/input',u'带附件的邮件')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:06 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:20:06 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'//div[@title="点击添加附件"]/input[@size="1" and @type="file"]',u'd:\\a.txt')
+                               ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:20:10 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitVisibilityOfElementLocated('xpath,'//span[text()="上传完成"]')
+                                                        ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:10 TestSendMailWithAttachment.py[line:132] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    waitFrameToBeAvailableAndSwitchToIt('xpath,'//iframe[@tabindex=1]')
+                                                         ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:10 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入邮件正文'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    input_string('xpath,'/html/body',u'写给未来自己的一封信')
+                                      ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2018-10-29 22:20:10 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击邮件发送'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1
+    click('xpath,'//header//span[text()="发送"]')
+                                       ^
+SyntaxError: invalid syntax
+
+2018-10-29 22:20:14 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2018-10-29 22:20:14 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言是否出现发送成功关键内容'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 89, in assert_string_in_pagesource
+    raise AssertionError(e)
+AssertionError: 发送成功 not found in page source
+
+2018-10-29 22:20:14 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2018-10-29 22:20:14 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过0条.
+2018-10-29 22:25:13 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:25:20 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:25:33 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:33 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:25:34 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2018-10-29 22:25:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:25:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:25:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2018-10-29 22:25:44 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:25:44 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:26:15 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:26:15 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 199, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:26:45 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:26:45 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:27:15 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:27:46 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:27:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:28:20 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:28:24 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:28:55 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 199, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:29:10 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:29:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:29:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:29:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:29:32 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:29:32 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:29:32 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2018-10-29 22:29:33 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2018-10-29 22:29:33 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2018-10-29 22:29:33 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2018-10-29 22:29:38 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:29:38 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:29:38 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言登录成功后页面是否包含标题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 99, in assert_title
+    raise AssertionError(e)
+AssertionError: 网易邮箱 not found in title
+
+2018-10-29 22:29:39 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:30:09 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 199, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:30:39 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:31:09 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:31:40 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:31:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:32:14 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:32:18 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:32:49 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 199, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:33:19 TestSendMailWithAttachment.py[line:132] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 191, in waitFrameToBeAvailableAndSwitchToIt
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:33:19 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入邮件正文'执行通过！
+2018-10-29 22:33:19 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2018-10-29 22:33:49 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击邮件发送'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:33:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2018-10-29 22:33:52 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言是否出现发送成功关键内容'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 89, in assert_string_in_pagesource
+    raise AssertionError(e)
+AssertionError: 发送成功 not found in page source
+
+2018-10-29 22:33:53 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2018-10-29 22:33:53 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过0条.
+2018-10-29 22:36:22 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:36:30 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:36:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:36:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:36:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:36:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:36:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2018-10-29 22:36:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2018-10-29 22:36:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2018-10-29 22:36:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2018-10-29 22:36:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:36:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:36:56 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言登录成功后页面是否包含标题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 100, in assert_title
+    raise AssertionError(e)
+AssertionError: 网易邮箱 not found in title
+
+2018-10-29 22:36:56 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:37:26 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:37:57 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:38:27 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:38:58 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:39:02 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:39:32 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:39:36 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:40:07 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:40:37 TestSendMailWithAttachment.py[line:132] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 192, in waitFrameToBeAvailableAndSwitchToIt
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:40:37 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入邮件正文'执行通过！
+2018-10-29 22:40:37 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2018-10-29 22:41:08 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击邮件发送'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:41:11 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2018-10-29 22:41:11 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言是否出现发送成功关键内容'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 89, in assert_string_in_pagesource
+    raise AssertionError(e)
+AssertionError: 发送成功 not found in page source
+
+2018-10-29 22:41:12 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2018-10-29 22:41:12 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过0条.
+2018-10-29 22:43:09 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:43:16 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:43:46 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:43:46 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:43:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:43:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:43:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2018-10-29 22:43:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2018-10-29 22:43:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2018-10-29 22:43:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2018-10-29 22:44:42 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:44:42 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:44:42 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2018-10-29 22:44:42 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:45:12 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:45:43 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:46:13 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:46:44 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:46:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:47:19 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:47:19 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:47:23 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:47:23 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:47:53 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:47:53 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:48:24 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:48:24 TestSendMailWithAttachment.py[line:132] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 192, in waitFrameToBeAvailableAndSwitchToIt
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:48:24 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:48:24 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入邮件正文'执行通过！
+2018-10-29 22:48:24 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:48:24 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2018-10-29 22:48:54 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:48:54 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击邮件发送'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:48:57 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:48:57 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2018-10-29 22:48:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:48:58 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言是否出现发送成功关键内容'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 89, in assert_string_in_pagesource
+    raise AssertionError(e)
+AssertionError: 发送成功 not found in page source
+
+2018-10-29 22:48:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:48:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2018-10-29 22:48:58 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:48:58 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过1条.
+2018-10-29 22:49:40 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:49:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:50:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:50:21 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:50:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:50:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:50:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2018-10-29 22:50:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2018-10-29 22:50:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2018-10-29 22:50:27 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2018-10-29 22:51:17 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:51:17 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:51:17 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2018-10-29 22:52:07 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:52:07 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:52:07 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:52:38 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:53:09 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:53:39 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:54:09 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:54:09 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入主题'执行失败,错误信息：Traceback (most recent call last):
+  File "D:\PythonWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "D:\PythonWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2018-10-29 22:54:13 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2018-10-29 22:54:13 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:55:35 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:55:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:55:54 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:55:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:56:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:56:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:56:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2018-10-29 22:56:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2018-10-29 22:56:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2018-10-29 22:56:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2018-10-29 22:56:29 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2018-10-29 22:56:37 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2018-10-29 22:56:53 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2018-10-29 22:56:53 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2018-10-29 22:56:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2018-10-29 22:56:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2018-10-29 22:56:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2018-10-29 22:56:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2018-10-29 22:56:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2018-10-29 22:56:59 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2018-10-29 22:57:49 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:57:49 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:57:49 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2018-10-29 22:58:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2018-10-29 22:58:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2018-10-29 22:58:39 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2018-10-29 22:58:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'判断"写信"按钮是否在页面可见'执行通过！
+2018-10-29 22:58:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击写信按钮'执行通过！
+2018-10-29 22:58:40 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入'执行通过！
+2018-10-29 22:58:40 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入主题'执行通过！
+2018-10-29 22:58:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:58:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入上传附件链接'执行通过！
+2018-10-29 22:58:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2018-10-29 22:58:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待附件上传完毕'执行通过！
+2018-10-29 22:58:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行通过！
+2018-10-29 22:58:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入邮件正文'执行通过！
+2018-10-29 22:58:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2018-10-29 22:58:49 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击邮件发送'执行通过！
+2018-10-29 22:58:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2018-10-29 22:58:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否出现发送成功关键内容'执行通过！
+2018-10-29 22:58:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2018-10-29 22:58:52 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过2条.
+2019-08-08 14:38:02 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2019-08-08 14:38:34 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2019-08-08 14:38:43 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2019-08-08 14:38:43 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入登录用户名'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+ElementNotInteractableException: Message: Element is not visible
+
+
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入密码'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+ElementNotInteractableException: Message: Element is not visible
+
+
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:38:48 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击登录按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+WebDriverException: Message: TypeError: rect is undefined
+
+
+2019-08-08 14:39:18 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:39:18 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 14:39:18 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:39:18 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 14:39:18 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:39:18 TestSendMailWithAttachment.py[line:132] INFO 步骤'断言登录成功后页面是否包含标题'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 100, in assert_title
+    raise AssertionError(e)
+AssertionError: 网易邮箱 not found in title
+
+2019-08-08 14:39:23 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:39:23 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 14:39:24 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:39:24 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 14:39:24 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:39:24 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2019-08-08 14:39:54 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:39:54 TestSendMailWithAttachment.py[line:132] INFO 步骤'判断"写信"按钮是否在页面可见'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 14:40:24 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:40:24 TestSendMailWithAttachment.py[line:132] INFO 步骤'点击写信按钮'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 81, in click
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 14:40:54 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 14:40:54 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 15:51:33 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2019-08-08 15:51:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2019-08-08 15:51:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2019-08-08 15:51:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2019-08-08 15:52:03 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2019-08-08 15:52:03 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2019-08-08 15:52:04 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击密码登录'执行通过！
+2019-08-08 15:52:07 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 15:52:07 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2019-08-08 15:52:07 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2019-08-08 15:52:07 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2019-08-08 15:52:08 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2019-08-08 15:52:38 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 15:52:38 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 15:52:38 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2019-08-08 15:52:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 15:52:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 15:52:43 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2019-08-08 15:52:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'判断"写信"按钮是否在页面可见'执行通过！
+2019-08-08 15:52:43 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击写信按钮'执行通过！
+2019-08-08 15:52:44 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入'执行通过！
+2019-08-08 15:52:45 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入主题'执行通过！
+2019-08-08 15:52:49 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 15:53:19 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 15:53:23 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 15:53:53 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 15:53:53 TestSendMailWithAttachment.py[line:137] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行通过！
+2019-08-08 15:53:54 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入邮件正文'执行通过！
+2019-08-08 15:53:54 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2019-08-08 15:53:54 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击邮件发送'执行通过！
+2019-08-08 15:53:57 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2019-08-08 15:53:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否出现发送成功关键内容'执行通过！
+2019-08-08 15:53:58 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2019-08-08 15:53:58 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过1条.
+2019-08-08 16:04:07 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2019-08-08 16:04:18 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2019-08-08 16:04:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2019-08-08 16:04:26 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2019-08-08 16:04:31 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2019-08-08 16:04:31 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2019-08-08 16:04:31 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击密码登录'执行通过！
+2019-08-08 16:04:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:04:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2019-08-08 16:04:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2019-08-08 16:04:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2019-08-08 16:04:35 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2019-08-08 16:05:05 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:05:05 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:05:05 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2019-08-08 16:05:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:05:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:05:10 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2019-08-08 16:05:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'判断"写信"按钮是否在页面可见'执行通过！
+2019-08-08 16:05:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击写信按钮'执行通过！
+2019-08-08 16:05:11 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入'执行通过！
+2019-08-08 16:05:11 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入主题'执行通过！
+2019-08-08 16:05:15 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 16:05:46 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 16:05:50 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 16:06:20 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 16:06:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行通过！
+2019-08-08 16:06:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入邮件正文'执行通过！
+2019-08-08 16:06:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2019-08-08 16:06:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击邮件发送'执行通过！
+2019-08-08 16:06:24 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2019-08-08 16:06:24 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否出现发送成功关键内容'执行通过！
+2019-08-08 16:06:25 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2019-08-08 16:06:25 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过1条.
+2019-08-08 16:40:18 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2019-08-08 16:40:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2019-08-08 16:41:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2019-08-08 16:41:00 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2019-08-08 16:41:05 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2019-08-08 16:41:05 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2019-08-08 16:41:06 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击密码登录'执行通过！
+2019-08-08 16:41:09 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:41:09 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2019-08-08 16:41:09 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2019-08-08 16:41:09 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2019-08-08 16:41:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2019-08-08 16:41:40 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:41:40 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:41:40 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2019-08-08 16:41:45 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:41:45 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:41:45 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2019-08-08 16:41:45 TestSendMailWithAttachment.py[line:137] INFO 步骤'判断"写信"按钮是否在页面可见'执行通过！
+2019-08-08 16:41:45 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击写信按钮'执行通过！
+2019-08-08 16:41:46 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入'执行通过！
+2019-08-08 16:41:46 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入主题'执行通过！
+2019-08-08 16:41:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 16:42:21 TestSendMailWithAttachment.py[line:132] INFO 步骤'输入上传附件链接'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 73, in input_string
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 16:42:25 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 16:44:29 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2019-08-08 16:44:40 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:40 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2019-08-08 16:44:46 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:46 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2019-08-08 16:44:46 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:46 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2019-08-08 16:44:51 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2019-08-08 16:44:51 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:51 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2019-08-08 16:44:52 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:52 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击密码登录'执行通过！
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:44:55 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2019-08-08 16:45:25 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:45:25 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:45:25 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:45:25 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:45:25 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:45:25 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2019-08-08 16:45:30 TestSendMailWithAttachment.py[line:47] DEBUG 写excel出错None
+2019-08-08 16:45:30 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:48:46 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2019-08-08 16:48:59 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2019-08-08 16:49:05 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2019-08-08 16:49:05 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2019-08-08 16:49:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2019-08-08 16:49:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2019-08-08 16:49:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击密码登录'执行通过！
+2019-08-08 16:49:14 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:49:14 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2019-08-08 16:49:14 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2019-08-08 16:49:14 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2019-08-08 16:49:14 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2019-08-08 16:49:29 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:49:29 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:49:29 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2019-08-08 16:49:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:49:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:49:34 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2019-08-08 16:49:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'判断"写信"按钮是否在页面可见'执行通过！
+2019-08-08 16:49:35 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击写信按钮'执行通过！
+2019-08-08 16:49:35 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入'执行通过！
+2019-08-08 16:49:36 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入主题'执行通过！
+2019-08-08 16:49:40 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 16:58:54 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'登录126邮箱'
+2019-08-08 16:59:04 TestSendMailWithAttachment.py[line:137] INFO 步骤'打开浏览器'执行通过！
+2019-08-08 16:59:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'访问被测网站http://www.126.com'执行通过！
+2019-08-08 16:59:10 TestSendMailWithAttachment.py[line:137] INFO 步骤'最大化窗口'执行通过！
+2019-08-08 16:59:15 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待126邮箱登录加载完成'执行通过！
+2019-08-08 16:59:15 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否包含'执行通过！
+2019-08-08 16:59:15 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击密码登录'执行通过！
+2019-08-08 16:59:18 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:59:18 TestSendMailWithAttachment.py[line:137] INFO 步骤'显式等待id属性值为x-URS-ifrme的frame框的出现，然后进入该frame'执行通过！
+2019-08-08 16:59:19 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入登录用户名'执行通过！
+2019-08-08 16:59:19 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入密码'执行通过！
+2019-08-08 16:59:19 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击登录按钮'执行通过！
+2019-08-08 16:59:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:59:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:59:34 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言登录成功后页面是否包含标题'执行通过！
+2019-08-08 16:59:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待'执行通过！
+2019-08-08 16:59:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'切回默认回话窗体'执行通过！
+2019-08-08 16:59:39 TestSendMailWithAttachment.py[line:73] INFO 开始执行用例'发送带附件的邮件'
+2019-08-08 16:59:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'判断"写信"按钮是否在页面可见'执行通过！
+2019-08-08 16:59:39 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击写信按钮'执行通过！
+2019-08-08 16:59:40 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入'执行通过！
+2019-08-08 16:59:41 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入主题'执行通过！
+2019-08-08 16:59:45 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 16:59:45 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入上传附件链接'执行通过！
+2019-08-08 16:59:49 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待几秒'执行通过！
+2019-08-08 17:00:19 TestSendMailWithAttachment.py[line:132] INFO 步骤'显式等待附件上传完毕'执行失败,错误信息：Traceback (most recent call last):
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\testScripts\TestSendMailWithAttachment.py", line 118, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "E:\PythonProject\TestFrameWork\KeyWordsFrameWork\action\PageAction.py", line 200, in waitVisibilityOfElementLocated
+    raise e
+TimeoutException: Message: 
+
+
+2019-08-08 17:00:19 TestSendMailWithAttachment.py[line:137] INFO 步骤'如果邮件正文的iframe框可见，然后进入该frame'执行通过！
+2019-08-08 17:00:19 TestSendMailWithAttachment.py[line:137] INFO 步骤'输入邮件正文'执行通过！
+2019-08-08 17:00:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'退出邮件正文的frame'执行通过！
+2019-08-08 17:00:20 TestSendMailWithAttachment.py[line:137] INFO 步骤'点击邮件发送'执行通过！
+2019-08-08 17:00:23 TestSendMailWithAttachment.py[line:137] INFO 步骤'等待发送成功'执行通过！
+2019-08-08 17:00:23 TestSendMailWithAttachment.py[line:137] INFO 步骤'断言是否出现发送成功关键内容'执行通过！
+2019-08-08 17:00:24 TestSendMailWithAttachment.py[line:137] INFO 步骤'关闭浏览器'执行通过！
+2019-08-08 17:00:24 TestSendMailWithAttachment.py[line:147] INFO 共2 条用例，2条需要被执行，本次通过1条.
